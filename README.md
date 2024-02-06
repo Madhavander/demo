@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository.
 <br>
-Author Madhavander Singh
+Author Madhavander Singh Shekhawat
